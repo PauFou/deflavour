@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-DeFlavour est un site web proposant une expérience à ses utilisateurs. Ce dernier, grâce à un alogorithme est en mesure de proposer de nouveaux spiritueux aux utlisateurs en fonction des goûts passés de ces personnes. 
+DeFlavour est un site web proposant une expérience à ses utilisateurs. Ce dernier, grâce à un algorithme est en mesure de proposer de nouveaux spiritueux aux utlisateurs en fonction de leurs goûts. 
 
 
 <div align="center">
