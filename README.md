@@ -96,7 +96,7 @@ Antoine Serval
 Paul Fournier
 <br>
 
-Project Link: [https://github.com/adrih1/deflavour](https://github.com/adrih1/deflavour)
+Project Link: (https://www.deflavour.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
